@@ -1,0 +1,15 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "title": "Mobile",
+      "price": 10000
+    },
+    {
+      "title": "LED",
+      "price": "50000",
+      "id": "rkxyqVQYQkA"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

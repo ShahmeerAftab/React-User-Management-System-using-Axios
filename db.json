@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ali",
+      "username": "khanali",
+      "age": 23,
+      "email": "ali@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Zubair",
+      "username": "mdzubair",
+      "age": 14,
+      "email": "zubair@gmail.com"
+    },
+    {
+      "name": "Arham",
+      "username": "arhamsyed",
+      "age": "12",
+      "email": "arham@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Salar",
+      "username": "salarshah",
+      "age": "4",
+      "email": "salar@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "Ayan Shah",
+      "username": "ayanshah",
+      "age": 12,
+      "email": "ayan@gmail.com",
+      "id": 8
+    }
+  ]
+}
