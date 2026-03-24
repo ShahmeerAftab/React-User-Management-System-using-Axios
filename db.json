@@ -34,6 +34,20 @@
       "age": 12,
       "email": "ayan@gmail.com",
       "id": 8
+    },
+    {
+      "name": "Shahmeer Aftab",
+      "username": "shahmeeraftab",
+      "age": 22,
+      "email": "shahmeermalik259@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "Ahsan",
+      "username": "ahsannoor",
+      "age": 15,
+      "email": "ahsan@gmail.com",
+      "id": 10
     }
   ]
 }
